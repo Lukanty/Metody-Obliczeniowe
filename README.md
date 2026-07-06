@@ -1,4 +1,4 @@
-#Metody-Obliczeniowe
+# Metody-Obliczeniowe
 
 W Pyhtonie
 1. Różniczkowanie numeryczne
